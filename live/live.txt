@@ -2331,7 +2331,7 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 埋堆堆67,http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
 埋堆堆68,http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
 
-👓玩转原力_2058,#genre#
+👓玩转原力,#genre#
 凤凰中文台,P2p://ns2.hellotvvod.com:9906/66fe4a4654ff4fe7bab0f1a6c78c0d69.ts
 凤凰资讯台,P2p://ns2.hellotvvod.com:9906/f6d250afb1d14fd385e7ec57aa42817b.ts
 凤凰香港台,P2p://ns2.hellotvvod.com:9906/63086e48b5134cbe935f6dec628c2ec0.ts
