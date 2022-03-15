@@ -1,0 +1,11 @@
+name: clean
+on: workflow_dispatch
+
+jobs:
+  run_bat:
+    runs-on: windows-latest
+    name: cuci uci
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run bat script on CMD
+      run: ./clean.bat
