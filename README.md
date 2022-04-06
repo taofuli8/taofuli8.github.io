@@ -1,10 +1,22 @@
-## https://taofuli8.github.io  
+# 5iux.github.io
 
-<h1 style="text-align: center;"><a href="https://taofuli8.github.io"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaofuli8%2Ftaofuli8.github.io&count_bg=%23FF0A00&title_bg=%232E3EFB&icon=caterpillar.svg&icon_color=%23D7FF16&title=%E5%B0%8F%E5%81%B7&edge_flat=false" width="280" height="50" /></a>    
 
-<p><img style="user-select: none; margin: auto; background-color: #e6e6e6; transition: background-color 300ms ease 0s; display: block;" src="https://taofuli8.github.io/l/200w.gif" width="525" height="635" /></p>  
-  
-</body>
+很多朋友喜欢静态版本，今天给大家放出个（原来的php版还维护）   
 
+喜欢的可自行设置主页，或者自己下载源码修改
+
+图标基于[iconfont](https://www.iconfont.cn/)   
+需要自定义图标，登录iconfont网站自建项目即可（伸手党请关闭当前页面）   
+
+
+
+![图](https://cdn.jsdelivr.net/gh/5iux/uploads/pic/20210817115329.gif)   
+
+
+![图](https://cdn.jsdelivr.net/gh/5iux/uploads/pic/20210817115705.gif)   
+
+     
+
+    
 
 
