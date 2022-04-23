@@ -10,7 +10,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://hk1.monika.love/taofuli8/sub/lib.json"
+      "ext": "https://taofuli8.github.io/sub/lib.json"
     },
     {
       "key": "csp_xpath_yanet",
@@ -20,7 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://hk1.monika.love/taofuli8/sub/yanet.json"
+      "ext": "https://taofuli8.github.io/sub/yanet.json"
     },
     {
       "key": "csp_xpath_ddg",
@@ -30,7 +30,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://hk1.monika.love/taofuli8/sub/dadagui.json"
+      "ext": "https://taofuli8.github.io/sub/dadagui.json"
     },
     {
       "key": "csp_xpath_jbb",
@@ -40,7 +40,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://hk1.monika.love/taofuli8/sub/jubaibai.json"
+      "ext": "https://taofuli8.github.io/sub/jubaibai.json"
     },
         {
       "key": "csp_appysv2_手指影视",
@@ -1142,5 +1142,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://api.yimian.xyz/img?type=wallpaper",
-  "spider": "https://hk1.monika.love/taofuli8/sub/custom_spider.jar"
+  "spider": "https://taofuli8.github.io/sub/custom_spider.jar"
 }
