@@ -14,6 +14,8 @@
       "filterable": 1,
       "ext": "https://taofuli8.github.io/sub/lib.json"
     },
+    {"key":"csp_xpath___在线之家","name":"在线之家〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://taofuli8.github.io/sub/zxzj.json"},
+   {"key":"csp_appysv2_爱酷影视","name":"爱酷影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
     {
       "key": "csp_xpath_yanet",
       "name": "鸭奈飞(XP)",
